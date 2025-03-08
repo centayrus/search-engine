@@ -23,17 +23,14 @@
     ```
     git clone git@github.com:centayrus/search-engine.git
     ```
-
 2. Перейдите в каталог проекта:
     ```
     cd search-engine
     ```
-
 3. Соберите проект с помощью скрипта на платформах Windows(GitBash/WSL)/Linux/MacOS:
     ```
     build.sh или ./build.sh
     ```
-
 4. Запустите программу:
 - Linux/MacOS:
     ```
